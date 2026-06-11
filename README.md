@@ -1,19 +1,23 @@
 # Peter Meiring
 
-Experimental particle physicist — 7+ years on the CMS experiment at CERN's Large Hadron Collider, turning some of the world's largest and noisiest datasets into published measurements. My core skill is extracting weak signals from data with machine learning under rigorous statistical validation — whether that means a BDT classifier running at microsecond latency on FPGAs in the trigger system (CMS Award 2023), graph neural networks for real-time energy regression, or petabyte-scale analyses I led end-to-end from data ingestion to statistical inference with teams of 10+ researchers.
+Experimental particle physicist — 7+ years on the CMS experiment at CERN's Large Hadron Collider, turning some of the world's largest and noisiest datasets into published measurements. My core skill is extracting weak signals from data with machine learning under rigorous statistical validation — whether that means a boosted-decision-tree (BDT) classifier running at microsecond latency on FPGAs in the trigger system (the detector's real-time event selection), graph neural networks (GNNs) for real-time energy regression, or petabyte-scale analyses I led end-to-end from data ingestion to statistical inference with teams of 10+ researchers.
 
 **I am now moving into industry**, where the same skill set goes by different names — machine learning engineering, data science, quantitative research — and I am open to roles across that spectrum. Recent work includes model inference optimisation (pruning, quantisation) for FPGA/ASIC targets, anomaly detection for superconducting qubit read-out at Fermilab.
 
 📍 Currently in Beijing studying Mandarin (HSK 3–4) as a deliberate buffer between academia and the next step. **Available from August 2026 (Switzerland / Netherlands)**
 
-📧 peter.meiring@hetnet.nl · [LinkedIn](https://www.linkedin.com/in/peter-meiring-008031162) · [Google Scholar](https://scholar.google.com/citations?hl=nl&user=NOYolJwAAAAJ)
+📧 peter.meiring@hetnet.nl · [LinkedIn](https://www.linkedin.com/in/peter-meiring-008031162) · [Google Scholar](https://scholar.google.com/citations?user=NOYolJwAAAAJ)
 
 ---
 
 
 ## CMS / CERN work
 
-Collaboration analysis code lives in CERN-internal repositories and cannot be shared publicly. Representative public output:
+Most CMS Collaboration analysis code lives in CERN-internal repositories and cannot be shared publicly. But some representative technical work can be found in the links below:
+- [Merged CMS software integration](https://github.com/cms-l1t-offline/cmssw/pull/1096/) of the first fully demonstrated ML algorithm for the next-generation CMS hardware trigger: [BDT-based electron identification](https://cds.cern.ch/record/2868782) (CMS Award 2023).
+- [Calorimeter calibrations](https://github.com/cms-data/L1Trigger-L1TCalorimeter/pull/27) for the CMS hardware trigger, deployed for 2025 data-taking.
+- [Training framework](https://github.com/Pmeiring/L1DeepMETv2) for a GNN performing real-time energy regression in the next-generation CMS hardware trigger.
+- [Statistical toolkit](https://github.com/Pmeiring/globalsignif_exo23017) for computing global significance from millions of simulated pseudo-experiments, distributed on CMS Connect.
 
 **Selected publications**
 - *DGNNFlow: A Streaming Dataflow Architecture for Real-Time Edge-based Dynamic GNN Inference in HL-LHC Trigger Systems* — submitted to ACM TRETS (2026) · [arXiv:2603.20364](https://arxiv.org/abs/2603.20364)
@@ -28,5 +32,5 @@ Collaboration analysis code lives in CERN-internal repositories and cannot be sh
 
 ## Beyond research
 
-- **Chengyu: Origins** — a cross-platform mobile app on the origins of Chinese idioms, which I design and build while studying Mandarin in Beijing (HSK 3–4).
-- **[The Fit Frontier](https://thefitfrontier.com)** — a science-blog on the frontiers of fitness and health; I own, build, and write it.
+- **Chengyu: Origins** (in development) — a cross-platform mobile app on the origins of Chinese idioms, which I design and build while studying Mandarin in Beijing.
+- **[The Fit Frontier](https://thefitfrontier.com)** — a science blog on the frontiers of fitness and health; I own, build, and write it.
