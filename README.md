@@ -1,12 +1,12 @@
 # Peter Meiring
 
-Experimental particle physicist — 7+ years on the CMS experiment at CERN's Large Hadron Collider, turning some of the world's largest and noisiest datasets into published measurements. My core skill is extracting weak signals from data with machine learning under rigorous statistical validation — whether that means a boosted-decision-tree classifier running at microsecond latency on FPGAs in the trigger system (CMS Award 2023), graph neural networks for real-time energy regression, or petabyte-scale analyses I led end-to-end from data ingestion to statistical inference with teams of 10+ researchers.
+Experimental particle physicist — 7+ years on the CMS experiment at CERN's Large Hadron Collider, turning some of the world's largest and noisiest datasets into published measurements. My core skill is extracting weak signals from data with machine learning under rigorous statistical validation — whether that means a BDT classifier running at microsecond latency on FPGAs in the trigger system (CMS Award 2023), graph neural networks for real-time energy regression, or petabyte-scale analyses I led end-to-end from data ingestion to statistical inference with teams of 10+ researchers.
 
-I am now moving into industry, where the same skill set goes by different names — machine learning engineering, data science, quantitative research — and I am open to roles across that spectrum in Switzerland and the Netherlands from August 2026. Recent work includes model inference optimisation (pruning, quantisation) for FPGA/ASIC targets, anomaly detection for superconducting qubit read-out at Fermilab.
+**I am now moving into industry**, where the same skill set goes by different names — machine learning engineering, data science, quantitative research — and I am open to roles across that spectrum. Recent work includes model inference optimisation (pruning, quantisation) for FPGA/ASIC targets, anomaly detection for superconducting qubit read-out at Fermilab.
 
-Currently in Beijing studying Mandarin (HSK 3–4) as a deliberate buffer between academia and the next step.
+📍 Currently in Beijing studying Mandarin (HSK 3–4) as a deliberate buffer between academia and the next step. **Available from August 2026 (Switzerland / Netherlands)**
 
-📍 Available from August 2026 (Switzerland / Netherlands) · 📧 peter.meiring@hetnet.nl · [LinkedIn](https://www.linkedin.com/in/peter-meiring-008031162) · [Google Scholar](https://scholar.google.com/citations?hl=nl&user=NOYolJwAAAAJ)
+📧 peter.meiring@hetnet.nl · [LinkedIn](https://www.linkedin.com/in/peter-meiring-008031162) · [Google Scholar](https://scholar.google.com/citations?hl=nl&user=NOYolJwAAAAJ)
 
 ---
 
