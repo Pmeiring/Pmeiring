@@ -24,10 +24,10 @@ Most CMS Collaboration analysis code lives in CERN-internal repositories and can
 **Selected publications**
 
 - *DGNNFlow: A Streaming Dataflow Architecture for Real-Time Edge-based Dynamic GNN Inference in HL-LHC Trigger Systems* — submitted to ACM TRETS (2026) · [arXiv:2603.20364](https://arxiv.org/abs/2603.20364)
-- *Search for new physics with compressed mass spectra in final states with soft leptons and missing transverse energy* — CMS-PAS-EXO-23-017, main analyser · [CDS record](https://cds.cern.ch/record/2930836)
-- *Combined search for electroweak production of winos, binos, higgsinos, and sleptons* — Phys. Rev. D 109 (2024) 112001 · [arXiv:2402.01888](https://arxiv.org/abs/2402.01888)
+- *Search for new physics with compressed mass spectra in final states with soft leptons and missing transverse energy in proton-proton collisions at √s = 13 TeV* — CMS-PAS-EXO-23-017, main analyser · [CDS record](https://cds.cern.ch/record/2930836)
+- *Combined search for electroweak production of winos, binos, higgsinos, and sleptons in proton-proton collisions at √s = 13 TeV* — Phys. Rev. D 109 (2024) 112001 · [arXiv:2402.01888](https://arxiv.org/abs/2402.01888)
 - *Triggering on electrons, photons, tau leptons, jets and energy sums at HL-LHC with the upgraded CMS Level-1 Trigger* — PoS ICHEP2022 939 · [doi:10.22323/1.414.0939](https://doi.org/10.22323/1.414.0939)
-- *Search for supersymmetry in final states with two or three soft leptons* — JHEP 04 (2022) 091 · [arXiv:2111.06296](https://arxiv.org/abs/2111.06296)
+- *Search for supersymmetry in final states with two or three soft leptons and missing transverse momentum in proton-proton collisions at √s = 13 TeV* — JHEP 04 (2022) 091 · [arXiv:2111.06296](https://arxiv.org/abs/2111.06296)
 
 **Recognition**
 
