@@ -29,14 +29,14 @@ Most CMS Collaboration analysis code lives in CERN-internal repositories and can
 
 ### Selected publications
 
-See also my [Google Scholar](https://scholar.google.com/citations?user=NOYolJwAAAAJ). Note that CMS publishes collaboration-wide; a selection of the results I drove are listed here.
+See also my [Google Scholar](https://scholar.google.com/citations?user=NOYolJwAAAAJ). Note that CMS publishes collaboration-wide; a selection of the results I drove is listed here.
 - *DGNNFlow: A Streaming Dataflow Architecture for Real-Time Edge-based Dynamic GNN Inference in HL-LHC Trigger Systems* — submitted to ACM TRETS (2026) · [arXiv:2603.20364](https://arxiv.org/abs/2603.20364)
 - *Search for new physics with compressed mass spectra in final states with soft leptons and missing transverse energy in proton-proton collisions at √s = 13 TeV* — CMS-PAS-EXO-23-017, main analyser · [CDS record](https://cds.cern.ch/record/2930836)
 - *Combined search for electroweak production of winos, binos, higgsinos, and sleptons in proton-proton collisions at √s = 13 TeV* — Phys. Rev. D 109 (2024) 112001 · [arXiv:2402.01888](https://arxiv.org/abs/2402.01888)
 - *Electron Reconstruction and Identification in the CMS Phase-2 Level-1 Trigger* — CERN-CMS-DP-2023-047 · [CDS record](https://cds.cern.ch/record/2868782)
+- *Search for supersymmetry in final states with two or three soft leptons and missing transverse momentum in proton-proton collisions at √s = 13 TeV* — JHEP 04 (2022) 091 · [arXiv:2111.06296](https://arxiv.org/abs/2111.06296)
 <!-- - *Triggering on electrons, photons, tau leptons, jets and energy sums at HL-LHC with the upgraded CMS Level-1 Trigger* — PoS ICHEP2022 (2023) 939 · [doi:10.22323/1.414.0939](https://doi.org/10.22323/1.414.0939) -->
 <!-- - *Constraining challenging regions of the SUSY parameter space with the CMS experiment* — PoS EPS-HEP2021 (2022) 659 · [doi:10.22323/1.398.0659](https://doi.org/10.22323/1.398.0659) -->
-- *Search for supersymmetry in final states with two or three soft leptons and missing transverse momentum in proton-proton collisions at √s = 13 TeV* — JHEP 04 (2022) 091 · [arXiv:2111.06296](https://arxiv.org/abs/2111.06296)
 
 ### Recognition
 
