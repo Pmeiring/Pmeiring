@@ -1,10 +1,12 @@
 # Peter Meiring
 
-Experimental particle physicist — 7+ years on the CMS experiment at CERN's Large Hadron Collider, turning some of the world's largest and noisiest datasets into published measurements. My core skill is extracting weak signals from data, with machine learning and rigorous statistics as the main instruments - whether that means a boosted-decision-tree (BDT) classifier running at microsecond latency on FPGAs in the trigger system (the detector's real-time event selection), graph neural networks (GNNs) for real-time energy regression or petabyte-scale analyses I led end-to-end from data ingestion to statistical inference.
+PhD physicist with 7+ years experience doing data science and low-latency machine learning (ML) on the CMS experiment at the CERN Large Hadron Collider. 
 
-**I am now moving into industry**, where the same skill set goes by different names — machine learning engineering, data science, quantitative research — and I am open to roles across that spectrum. What I'm looking for: applying state-of-the-art methods to large or fast data with real-world impact, in a collaborative team where there's still plenty for me to learn — industry engineering practice in particular.
+My research at CERN was focused on large-scale data analyses to search for new-physics phenomena, and on implementing ultra-fast ML algorithms in the CMS hardware trigger to enable those searches. I built efficient BDT/GNN/TCN/AE models for μs-latency inference on FPGAs, developed custom methods for data-driven background modeling and increased signal sensitivity through new signal-extraction techniques. The novelty and challenge of the untrodden path is what I loved the most — always something to learn!
 
-📍 Currently in Beijing studying Mandarin (HSK 3–4) as a deliberate buffer between academia and the next step. **Available from August 2026 (Switzerland / Netherlands)**
+**I am now moving into industry** — open to ML engineering, quantitative research, or data science roles. I'm eager to apply state-of-the-art methods to complex data with a more direct real-world impact, in a collaborative environment where there's still plenty for me to learn.
+
+📍 Currently in Beijing studying Mandarin (HSK 3–4) as a deliberate break between academia and the next step. **Available from August 2026 (Switzerland / Netherlands)**
 
 📧 peter.meiring@hetnet.nl · [LinkedIn](https://www.linkedin.com/in/peter-meiring-008031162) · [Google Scholar](https://scholar.google.com/citations?user=NOYolJwAAAAJ)
 
