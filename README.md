@@ -2,11 +2,11 @@
 
 PhD physicist with 7+ years experience doing data science and low-latency machine learning (ML) on the CMS experiment at the CERN Large Hadron Collider. 
 
-My research at CERN was focused on large-scale data analyses to search for new-physics phenomena, and on implementing ultra-fast ML algorithms in the CMS hardware trigger to enable those searches. I built efficient BDT/GNN/TCN/AE models for μs-latency inference on FPGAs, developed custom methods for data-driven background modeling and increased signal sensitivity through new signal-extraction techniques. The novelty and challenge of the untrodden path is what I loved the most — always something to learn!
+My research at CERN was focused on large-scale data analyses to search for new-physics phenomena, and on implementing ultra-fast ML algorithms in the CMS hardware trigger to enable those searches. I built efficient BDT/GNN/TCN/AE models for μs-latency inference on FPGAs, developed custom methods for data-driven background modeling and signal-extraction, and was responsible for the CMS trigger calibrations. 
 
-**I am now moving into industry** — open to ML engineering, quantitative research, or data science roles. I'm eager to apply state-of-the-art methods to complex data with a more direct real-world impact, in a collaborative environment where there's still plenty for me to learn.
+**I am now moving into industry** — open to ML engineering, quantitative research, or data science roles. I want to learn new tools & practices, and have a shorter feedback loop than in academia, while still working with complex data and SOTA ML. 
 
-📍 Currently in Beijing studying Mandarin (HSK 3–4) as a deliberate break between academia and the next step. **Available from August 2026 (Switzerland / Netherlands)**
+📍 Currently in Beijing studying Mandarin (HSK 3–4) as a deliberate break between academia and the next step. **Available from August 2026 (CH / BE / NL).**
 
 📧 peter.meiring@hetnet.nl · [LinkedIn](https://www.linkedin.com/in/peter-meiring-008031162) · [Google Scholar](https://scholar.google.com/citations?user=NOYolJwAAAAJ)
 
@@ -50,5 +50,5 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=NOYolJwAA
 
 ## Beyond research
 
-- **Chengyu: Origins** (in development) — a cross-platform mobile app on the origins of Chinese idioms, which I design and build while studying Mandarin in Beijing.
+- **[Chengyu: Origins](https://chengyu-origins.netlify.app/)** (in development) — a cross-platform mobile app on the origins of Chinese idioms, which I design and build while studying Mandarin in Beijing.
 - **[The Fit Frontier](https://thefitfrontier.com)** — a science blog on the frontiers of fitness and health; I own, build, and write it.
