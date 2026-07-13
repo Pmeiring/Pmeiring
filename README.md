@@ -4,9 +4,7 @@ PhD physicist with 7+ years experience doing data science and low-latency machin
 
 My research at CERN was focused on large-scale data analyses to search for new-physics phenomena, and on implementing ultra-fast ML algorithms in the CMS hardware trigger to enable those searches. I built efficient BDT/GNN/TCN/AE models for μs-latency inference on FPGAs, developed custom methods for data-driven background modeling and signal-extraction, and was responsible for the CMS trigger calibrations. 
 
-**I am now moving into industry** — open to ML engineering, quantitative research, or data science roles. I want to learn new tools & practices, and have a shorter feedback loop than in academia, while still working with complex data and SOTA ML. 
-
-📍 Currently in Beijing studying Mandarin (HSK 3–4) as a deliberate break between academia and the next step. **Available from August 2026 (CH / BE / NL).**
+**And I'm now transitioning to industry!** Currently in Beijing studying Mandarin (HSK 3-4) while seeking a position in data science, ML engineering or quantitative research. I want to work on problems with a more direct impact than fundamental science and learn new tools & practices, while still working with complex data and SOTA ML. **Available from August 2026 (CH / BE / NL).**
 
 📧 peter.meiring@hetnet.nl · [LinkedIn](https://www.linkedin.com/in/peter-meiring-008031162) · [Google Scholar](https://scholar.google.com/citations?user=NOYolJwAAAAJ)
 
@@ -17,16 +15,10 @@ My research at CERN was focused on large-scale data analyses to search for new-p
 
 ### Software
 
-<!-- Most CMS Collaboration analysis code lives in CERN-internal repositories and cannot be shared publicly. But some representative technical work can be found in the links below:
-- [Merged CMS software integration](https://github.com/cms-l1t-offline/cmssw/pull/1096/) of the first fully demonstrated ML algorithm for the next-generation CMS hardware trigger: [BDT-based electron identification](https://cds.cern.ch/record/2868782) (CMS Award 2023).
-- [Calorimeter calibrations](https://github.com/cms-data/L1Trigger-L1TCalorimeter/pull/27) for the CMS hardware trigger, deployed for 2025 data-taking.
-- [Training framework](https://github.com/Pmeiring/L1DeepMETv2) for a GNN performing real-time energy regression in the next-generation CMS hardware trigger.
-- [Statistical toolkit](https://github.com/Pmeiring/globalsignif_exo23017) for computing global significance from millions of simulated pseudo-experiments, distributed on CMS Connect. -->
-
 Most CMS Collaboration analysis code lives in CERN-internal repositories and cannot be shared publicly. But some representative technical work can be found in the links below:
 - **[BDT electron-ID — merged into CMS software](https://github.com/cms-l1t-offline/cmssw/pull/1096/)** — the first fully demonstrated ML algorithm for the next-generation CMS hardware trigger (CMS Award 2023).
 - **[Calorimeter calibrations](https://github.com/cms-data/L1Trigger-L1TCalorimeter/pull/27)** — deployed in the CMS hardware trigger for 2025 data-taking.
-- **[GNN training framework (L1DeepMETv2)](https://github.com/Pmeiring/L1DeepMETv2)** — real-time energy regression in the next-gen CMS hardware trigger.
+- **[GNN training framework (L1DeepMETv2)](https://github.com/Pmeiring/L1DeepMETv2)** — real-time energy regression in the next-generation CMS hardware trigger.
 - **[Global-significance toolkit](https://github.com/Pmeiring/globalsignif_exo23017)** — significance from millions of pseudo-experiments, distributed on CMS Connect.
 
 ### Selected publications
