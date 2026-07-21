@@ -1,10 +1,10 @@
 # Peter Meiring
 
-PhD physicist with 7+ years experience doing data science and low-latency machine learning (ML) on the CMS experiment at the CERN Large Hadron Collider. 
+PhD physicist with 7+ years experience in data science and low-latency machine learning (ML) for the CMS experiment at the CERN Large Hadron Collider. 
 
-My research at CERN was focused on large-scale data analyses to search for new-physics phenomena, and on implementing ultra-fast ML algorithms in the CMS hardware trigger to enable those searches. I built efficient BDT/GNN/TCN/AE models for μs-latency inference on FPGAs, developed custom methods for data-driven background modeling and signal-extraction, and was responsible for the CMS trigger calibrations. 
+My research at CERN was focused on large-scale data analyses to search for anomalous physics phenomena, and on implementing ultra-fast ML algorithms in the CMS hardware trigger to enable those searches. I built efficient BDT/GNN/TCN/AE models for μs-latency inference on FPGAs, developed custom methods for data-driven background modeling and signal-extraction, and was responsible for the CMS trigger calibrations. 
 
-**And I'm now transitioning to industry!** Currently in Beijing studying Mandarin (HSK 3-4) while seeking a position in data science, ML engineering or quantitative research. I want to work on problems with a more direct impact than fundamental science and learn new tools & practices, while still working with complex data and SOTA ML. **Available from August 2026 (CH / BE / NL).**
+**And I'm now transitioning to industry!** I'm seeking a position in data science, ML engineering or quantitative research. I want to work on problems with a more direct impact than fundamental science and learn new tools & practices, while still working with complex data and SOTA ML.
 
 📧 peter.meiring@hetnet.nl · [LinkedIn](https://www.linkedin.com/in/peter-meiring-008031162) · [Google Scholar](https://scholar.google.com/citations?user=NOYolJwAAAAJ)
 
